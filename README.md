@@ -1,2 +1,4 @@
 # Excel-Projects
-This Excel project focuses on analyzing sales data and coffee orders, providing valuable insights into [highlight the specific areas of analysis, such as sales trends, customer preferences, or revenue forecasting]. It enables efficient data management, visualization, and reporting, helping businesses optimize their sales strategies and streamline coffee order processes.
+
+![Cofee order](https://github.com/RiyazGhori123/Excel-Projects/assets/90542870/9ad9ee1c-80c0-4387-aba3-a724fcfd73d4)
+![Sales Dashboard](https://github.com/RiyazGhori123/Excel-Projects/assets/90542870/707ed530-e340-4efa-9028-e4df14b5a741)
